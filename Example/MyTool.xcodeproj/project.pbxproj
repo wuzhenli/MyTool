@@ -62,9 +62,9 @@
 		6FD8BFFDB55328C435235CBB /* Pods-MyTool_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyTool_Example.release.xcconfig"; path = "Target Support Files/Pods-MyTool_Example/Pods-MyTool_Example.release.xcconfig"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		AAB45A1733EA8BC084F6CC73 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		B4EFDE2A855DF337E4A83CCC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		BCC7A8E32341348040CD30DF /* MyTool.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MyTool.podspec; path = ../MyTool.podspec; sourceTree = "<group>"; };
+		AAB45A1733EA8BC084F6CC73 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		B4EFDE2A855DF337E4A83CCC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		BCC7A8E32341348040CD30DF /* MyTool.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MyTool.podspec; path = ../MyTool.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		D177EA82FFA5C4ED73666778 /* Pods-MyTool_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyTool_Tests.debug.xcconfig"; path = "Target Support Files/Pods-MyTool_Tests/Pods-MyTool_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		F903A796B9193C72A8F87CE6 /* Pods_MyTool_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyTool_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -193,7 +193,6 @@
 				D177EA82FFA5C4ED73666778 /* Pods-MyTool_Tests.debug.xcconfig */,
 				52BB23FD682833251F0B49CA /* Pods-MyTool_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
