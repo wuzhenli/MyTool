@@ -13,6 +13,7 @@
 #import "Base.h"
 #import "Sington.h"
 #import "XMGConst.h"
+#import "XMGSessionManager.h"
 
 FOUNDATION_EXPORT double MyToolVersionNumber;
 FOUNDATION_EXPORT const unsigned char MyToolVersionString[];
